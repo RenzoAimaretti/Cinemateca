@@ -5,4 +5,4 @@
 
 ##Descripción:
 
-Decidimos crear una web app donde los usuarios puedan consultar información relevante sobre las películas y/o series que deseen. Podrán filtrar por: Título, año, director, actor y más. Además contará con listas que se actualizarán diariamente, dichas listas contendrán películas y/o series según temáticas tales como más vistas del mes, mejor puntuadas, ideales para ver en familia, etc. También los usuarios registrados podrán crear sus propias listas.
+Decidimos crear una web app donde los usuarios puedan consultar información relevante sobre las películas y/o series que deseen. Podrán filtrar por: Título, año, director, actor y más. Además contará con listas que se actualizarán diariamente, dichas listas contendrán películas y/o series según temáticas tales como más vistas del mes, mejor puntuadas, ideales para ver en familia, etc. También los usuarios registrados podrán crear sus propias listas e interactuar con sus amigos.
